@@ -1,0 +1,11 @@
+C:\Users\gilde\workspace\csharp\exercises\inheritanceIntro\bin\Debug\netcoreapp3.1\inheritanceIntro.exe
+C:\Users\gilde\workspace\csharp\exercises\inheritanceIntro\bin\Debug\netcoreapp3.1\inheritanceIntro.deps.json
+C:\Users\gilde\workspace\csharp\exercises\inheritanceIntro\bin\Debug\netcoreapp3.1\inheritanceIntro.runtimeconfig.json
+C:\Users\gilde\workspace\csharp\exercises\inheritanceIntro\bin\Debug\netcoreapp3.1\inheritanceIntro.runtimeconfig.dev.json
+C:\Users\gilde\workspace\csharp\exercises\inheritanceIntro\bin\Debug\netcoreapp3.1\inheritanceIntro.dll
+C:\Users\gilde\workspace\csharp\exercises\inheritanceIntro\bin\Debug\netcoreapp3.1\inheritanceIntro.pdb
+C:\Users\gilde\workspace\csharp\exercises\inheritanceIntro\obj\Debug\netcoreapp3.1\inheritanceIntro.csprojAssemblyReference.cache
+C:\Users\gilde\workspace\csharp\exercises\inheritanceIntro\obj\Debug\netcoreapp3.1\inheritanceIntro.AssemblyInfoInputs.cache
+C:\Users\gilde\workspace\csharp\exercises\inheritanceIntro\obj\Debug\netcoreapp3.1\inheritanceIntro.AssemblyInfo.cs
+C:\Users\gilde\workspace\csharp\exercises\inheritanceIntro\obj\Debug\netcoreapp3.1\inheritanceIntro.dll
+C:\Users\gilde\workspace\csharp\exercises\inheritanceIntro\obj\Debug\netcoreapp3.1\inheritanceIntro.pdb
